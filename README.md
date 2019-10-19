@@ -2,6 +2,14 @@
 
 + #### [类图](https://github.com/jan-wong/UMLLearning/blob/master/docs/classGraph.md)
 
++ ### 领域模型
+
+负责【业务规则】和【领域逻辑】，一般涉及对一个实体的增删改查
+
++ ### 应用模型
+
+负责应用的状态和逻辑
+
 + ### 模式
 
 一种业已验证的通用问题的解决方案，涉及的是少量的类和关系
